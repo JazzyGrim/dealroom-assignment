@@ -16,7 +16,6 @@ Read `README.md` (API reference) and `AGENTS.md` (conventions) first. Use whatev
 5. **Shareable state.** Filters and sort live in the URL: refreshing or sharing the link restores the same view.
 6. **States.** Loading, empty ("no jobs match") and error with retry. Try `FAILURE_RATE=0.3 bun run dev` to see failures.
 7. **Navigation.** Add "Jobs" to the header.
-8. **Tests.** Unit-test the pure logic you write (e.g. URL search → API params, salary formatting).
 
 `bun run typecheck && bun run lint && bun test` must pass.
 
