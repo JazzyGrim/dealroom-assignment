@@ -1,0 +1,6480 @@
+[
+  {
+    "id": 100000,
+    "title": "Senior Embedded Software Engineer",
+    "company": {
+      "id": "quanta-ledger",
+      "name": "Quanta Ledger",
+      "domain": "quantaledger.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quantaledger.com.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 70000,
+      "max": 90000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "React",
+      "GraphQL"
+    ],
+    "posted_at": "2026-09-11T20:31:00.000Z",
+    "url": "https://jobs.example.com/quanta-ledger/100000"
+  },
+  {
+    "id": 100007,
+    "title": "Junior Office Manager",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "operations",
+    "seniority": "junior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": {
+      "min": 75000,
+      "max": 88000,
+      "currency": "USD"
+    },
+    "tags": [
+      "Process",
+      "Hiring",
+      "Finance"
+    ],
+    "posted_at": "2026-08-31T14:40:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/100007"
+  },
+  {
+    "id": 100014,
+    "title": "Junior Mobile Engineer",
+    "company": {
+      "id": "tidepool-climate",
+      "name": "Tidepool Climate",
+      "domain": "tidepool.earth",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tidepool.earth.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 50000,
+      "max": 80000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Rust",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "posted_at": "2026-09-23T09:21:00.000Z",
+    "url": "https://jobs.example.com/tidepool-climate/100014"
+  },
+  {
+    "id": 100021,
+    "title": "Senior UX Researcher",
+    "company": {
+      "id": "lumen-grid",
+      "name": "Lumen Grid",
+      "domain": "lumengrid.energy",
+      "logo_url": "https://icons.duckduckgo.com/ip3/lumengrid.energy.ico"
+    },
+    "job_type": "design",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 82000,
+      "max": 110000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Prototyping",
+      "Figma"
+    ],
+    "posted_at": "2026-08-24T00:32:00.000Z",
+    "url": "https://jobs.example.com/lumen-grid/100021"
+  },
+  {
+    "id": 100028,
+    "title": "Senior Product Marketing Manager",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 72000,
+      "max": 84000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "SEO",
+      "Lifecycle",
+      "Content"
+    ],
+    "posted_at": "2026-09-19T19:42:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/100028"
+  },
+  {
+    "id": 100035,
+    "title": "Lead Design Systems Designer",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "design",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 89000,
+      "max": 116000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Design systems"
+    ],
+    "posted_at": "2026-09-26T06:38:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/100035"
+  },
+  {
+    "id": 100042,
+    "title": "Senior Site Reliability Engineer",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": {
+      "min": 123000,
+      "max": 149000,
+      "currency": "USD"
+    },
+    "tags": [
+      "Rust",
+      "TypeScript"
+    ],
+    "posted_at": "2026-10-10T06:09:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/100042"
+  },
+  {
+    "id": 100049,
+    "title": "Senior UX Researcher",
+    "company": {
+      "id": "hexa-mobility",
+      "name": "Hexa Mobility",
+      "domain": "hexamobility.eu",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hexamobility.eu.ico"
+    },
+    "job_type": "design",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Sweden"
+    },
+    "salary": {
+      "min": 74000,
+      "max": 91000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "User research",
+      "Prototyping"
+    ],
+    "posted_at": "2026-09-21T21:51:00.000Z",
+    "url": "https://jobs.example.com/hexa-mobility/100049"
+  },
+  {
+    "id": 100056,
+    "title": "Lead Operations Manager",
+    "company": {
+      "id": "quanta-ledger",
+      "name": "Quanta Ledger",
+      "domain": "quantaledger.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quantaledger.com.ico"
+    },
+    "job_type": "operations",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 89000,
+      "max": 118000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Finance",
+      "Compliance"
+    ],
+    "posted_at": "2026-09-16T02:15:00.000Z",
+    "url": "https://jobs.example.com/quanta-ledger/100056"
+  },
+  {
+    "id": 100063,
+    "title": "Mobile Engineer",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": null,
+    "tags": [
+      "AWS",
+      "GraphQL",
+      "Go",
+      "PostgreSQL"
+    ],
+    "posted_at": "2026-09-30T00:28:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/100063"
+  },
+  {
+    "id": 100070,
+    "title": "Principal Solutions Engineer",
+    "company": {
+      "id": "tidepool-climate",
+      "name": "Tidepool Climate",
+      "domain": "tidepool.earth",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tidepool.earth.ico"
+    },
+    "job_type": "sales",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": {
+      "min": 111000,
+      "max": 121000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Salesforce",
+      "SaaS"
+    ],
+    "posted_at": "2026-08-30T16:58:00.000Z",
+    "url": "https://jobs.example.com/tidepool-climate/100070"
+  },
+  {
+    "id": 100077,
+    "title": "Lead Content Lead",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": null,
+    "tags": [
+      "Lifecycle",
+      "SEO",
+      "Paid acquisition"
+    ],
+    "posted_at": "2026-09-05T12:59:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100077"
+  },
+  {
+    "id": 100084,
+    "title": "Senior Content Lead",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": null,
+    "tags": [
+      "Content"
+    ],
+    "posted_at": "2026-10-11T22:39:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/100084"
+  },
+  {
+    "id": 100091,
+    "title": "UX Researcher",
+    "company": {
+      "id": "lumen-grid",
+      "name": "Lumen Grid",
+      "domain": "lumengrid.energy",
+      "logo_url": "https://icons.duckduckgo.com/ip3/lumengrid.energy.ico"
+    },
+    "job_type": "design",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 70000,
+      "max": 98000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "User research",
+      "Prototyping",
+      "Design systems"
+    ],
+    "posted_at": "2026-09-17T01:38:00.000Z",
+    "url": "https://jobs.example.com/lumen-grid/100091"
+  },
+  {
+    "id": 100098,
+    "title": "Senior Sales Development Rep",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "sales",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 74000,
+      "max": 97000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "SaaS"
+    ],
+    "posted_at": "2026-08-31T17:41:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/100098"
+  },
+  {
+    "id": 100105,
+    "title": "Senior Office Manager",
+    "company": {
+      "id": "brightloom",
+      "name": "Brightloom",
+      "domain": "brightloom.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/brightloom.co.ico"
+    },
+    "job_type": "operations",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 80000,
+      "max": 93000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Process",
+      "Finance",
+      "Compliance"
+    ],
+    "posted_at": "2026-09-15T01:52:00.000Z",
+    "url": "https://jobs.example.com/brightloom/100105"
+  },
+  {
+    "id": 100112,
+    "title": "Junior Office Manager",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "operations",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 50000,
+      "max": 72000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Finance"
+    ],
+    "posted_at": "2026-10-13T06:08:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/100112"
+  },
+  {
+    "id": 100119,
+    "title": "Principal Office Manager",
+    "company": {
+      "id": "tidepool-climate",
+      "name": "Tidepool Climate",
+      "domain": "tidepool.earth",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tidepool.earth.ico"
+    },
+    "job_type": "operations",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 122000,
+      "max": 150000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Compliance",
+      "Hiring"
+    ],
+    "posted_at": "2026-10-14T21:24:00.000Z",
+    "url": "https://jobs.example.com/tidepool-climate/100119"
+  },
+  {
+    "id": 100126,
+    "title": "Lead Content Lead",
+    "company": {
+      "id": "vela-payments",
+      "name": "Vela Payments",
+      "domain": "velapay.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/velapay.com.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": null,
+    "tags": [
+      "Content",
+      "Lifecycle",
+      "SEO"
+    ],
+    "posted_at": "2026-10-11T00:42:00.000Z",
+    "url": "https://jobs.example.com/vela-payments/100126"
+  },
+  {
+    "id": 100133,
+    "title": "Lead Embedded Software Engineer",
+    "company": {
+      "id": "orbital-foods",
+      "name": "Orbital Foods",
+      "domain": "orbitalfoods.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/orbitalfoods.com.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 89000,
+      "max": 101000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "GraphQL"
+    ],
+    "posted_at": "2026-10-14T01:24:00.000Z",
+    "url": "https://jobs.example.com/orbital-foods/100133"
+  },
+  {
+    "id": 100140,
+    "title": "Senior Design Systems Designer",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "design",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": null,
+    "tags": [
+      "Prototyping",
+      "Accessibility"
+    ],
+    "posted_at": "2026-08-29T14:18:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/100140"
+  },
+  {
+    "id": 100147,
+    "title": "Technical Product Manager",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "product",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": null,
+    "tags": [
+      "Discovery"
+    ],
+    "posted_at": "2026-09-08T18:37:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/100147"
+  },
+  {
+    "id": 100154,
+    "title": "Account Executive",
+    "company": {
+      "id": "lumen-grid",
+      "name": "Lumen Grid",
+      "domain": "lumengrid.energy",
+      "logo_url": "https://icons.duckduckgo.com/ip3/lumengrid.energy.ico"
+    },
+    "job_type": "sales",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": null,
+    "tags": [
+      "Negotiation"
+    ],
+    "posted_at": "2026-09-06T03:40:00.000Z",
+    "url": "https://jobs.example.com/lumen-grid/100154"
+  },
+  {
+    "id": 100161,
+    "title": "Principal Technical Product Manager",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "product",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": null,
+    "tags": [
+      "Roadmapping",
+      "Analytics"
+    ],
+    "posted_at": "2026-09-27T07:48:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/100161"
+  },
+  {
+    "id": 100168,
+    "title": "Office Manager",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "operations",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": null,
+    "tags": [
+      "Compliance",
+      "Finance",
+      "Hiring"
+    ],
+    "posted_at": "2026-10-15T17:21:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/100168"
+  },
+  {
+    "id": 100175,
+    "title": "Lead Content Lead",
+    "company": {
+      "id": "vela-payments",
+      "name": "Vela Payments",
+      "domain": "velapay.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/velapay.com.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 100000,
+      "max": 114000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "SEO"
+    ],
+    "posted_at": "2026-10-17T22:56:00.000Z",
+    "url": "https://jobs.example.com/vela-payments/100175"
+  },
+  {
+    "id": 100182,
+    "title": "Sales Development Rep",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "sales",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 67000,
+      "max": 80000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Salesforce",
+      "Negotiation"
+    ],
+    "posted_at": "2026-09-19T05:50:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/100182"
+  },
+  {
+    "id": 100189,
+    "title": "Analytics Engineer",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "data",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": null,
+    "tags": [
+      "BigQuery",
+      "PyTorch",
+      "SQL",
+      "dbt"
+    ],
+    "posted_at": "2026-09-17T13:51:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/100189"
+  },
+  {
+    "id": 100196,
+    "title": "Content Lead",
+    "company": {
+      "id": "brightloom",
+      "name": "Brightloom",
+      "domain": "brightloom.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/brightloom.co.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 66000,
+      "max": 94000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Paid acquisition",
+      "SEO",
+      "Lifecycle"
+    ],
+    "posted_at": "2026-08-30T10:23:00.000Z",
+    "url": "https://jobs.example.com/brightloom/100196"
+  },
+  {
+    "id": 100203,
+    "title": "Lead Technical Product Manager",
+    "company": {
+      "id": "vela-payments",
+      "name": "Vela Payments",
+      "domain": "velapay.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/velapay.com.ico"
+    },
+    "job_type": "product",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 86000,
+      "max": 98000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Roadmapping",
+      "Discovery",
+      "B2B SaaS"
+    ],
+    "posted_at": "2026-10-17T10:43:00.000Z",
+    "url": "https://jobs.example.com/vela-payments/100203"
+  },
+  {
+    "id": 100210,
+    "title": "Principal Partnerships Manager",
+    "company": {
+      "id": "meadow-labs",
+      "name": "Meadow Labs",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "sales",
+    "seniority": "principal",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 125000,
+      "max": 141000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Negotiation",
+      "Enterprise"
+    ],
+    "posted_at": "2026-10-03T03:17:00.000Z",
+    "url": "https://jobs.example.com/meadow-labs/100210"
+  },
+  {
+    "id": 100217,
+    "title": "Solutions Engineer",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "sales",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 51000,
+      "max": 79000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Negotiation"
+    ],
+    "posted_at": "2026-09-26T18:39:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/100217"
+  },
+  {
+    "id": 100224,
+    "title": "Senior Mobile Engineer",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "engineering",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": null,
+    "tags": [
+      "Python",
+      "Rust"
+    ],
+    "posted_at": "2026-10-16T10:24:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/100224"
+  },
+  {
+    "id": 100231,
+    "title": "Principal Full-Stack Engineer",
+    "company": {
+      "id": "atlas-freight",
+      "name": "Atlas Freight",
+      "domain": "atlasfreight.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/atlasfreight.co.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 113000,
+      "max": 126000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "TypeScript"
+    ],
+    "posted_at": "2026-10-16T03:25:00.000Z",
+    "url": "https://jobs.example.com/atlas-freight/100231"
+  },
+  {
+    "id": 100238,
+    "title": "Machine Learning Engineer",
+    "company": {
+      "id": "meadow-labs",
+      "name": "Meadow Labs",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "data",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": null,
+    "tags": [
+      "PyTorch",
+      "Airflow",
+      "SQL"
+    ],
+    "posted_at": "2026-09-17T00:12:00.000Z",
+    "url": "https://jobs.example.com/meadow-labs/100238"
+  },
+  {
+    "id": 100245,
+    "title": "Senior Office Manager",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "operations",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 82000,
+      "max": 104000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Compliance",
+      "Finance",
+      "Hiring"
+    ],
+    "posted_at": "2026-09-14T10:48:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/100245"
+  },
+  {
+    "id": 100252,
+    "title": "Principal Sales Development Rep",
+    "company": {
+      "id": "hexa-mobility",
+      "name": "Hexa Mobility",
+      "domain": "hexamobility.eu",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hexamobility.eu.ico"
+    },
+    "job_type": "sales",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 112000,
+      "max": 132000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Salesforce",
+      "SaaS"
+    ],
+    "posted_at": "2026-09-29T18:41:00.000Z",
+    "url": "https://jobs.example.com/hexa-mobility/100252"
+  },
+  {
+    "id": 100259,
+    "title": "Senior Technical Product Manager",
+    "company": {
+      "id": "orbital-foods",
+      "name": "Orbital Foods",
+      "domain": "orbitalfoods.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/orbitalfoods.com.ico"
+    },
+    "job_type": "product",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "United Kingdom"
+    },
+    "salary": null,
+    "tags": [
+      "Analytics",
+      "B2B SaaS"
+    ],
+    "posted_at": "2026-09-12T10:20:00.000Z",
+    "url": "https://jobs.example.com/orbital-foods/100259"
+  },
+  {
+    "id": 100266,
+    "title": "Lead Product Designer",
+    "company": {
+      "id": "juniper-legal",
+      "name": "Juniper Legal",
+      "domain": "juniper.law",
+      "logo_url": "https://icons.duckduckgo.com/ip3/juniper.law.ico"
+    },
+    "job_type": "design",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 93000,
+      "max": 103000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "User research",
+      "Design systems"
+    ],
+    "posted_at": "2026-09-11T15:36:00.000Z",
+    "url": "https://jobs.example.com/juniper-legal/100266"
+  },
+  {
+    "id": 100273,
+    "title": "Junior Solutions Engineer",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "sales",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "United States"
+    },
+    "salary": {
+      "min": 61000,
+      "max": 74000,
+      "currency": "USD"
+    },
+    "tags": [
+      "Enterprise",
+      "Negotiation"
+    ],
+    "posted_at": "2026-08-23T04:14:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/100273"
+  },
+  {
+    "id": 100280,
+    "title": "Lead Technical Product Manager",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "product",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": null,
+    "tags": [
+      "Analytics",
+      "Discovery"
+    ],
+    "posted_at": "2026-09-23T06:55:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/100280"
+  },
+  {
+    "id": 100287,
+    "title": "Junior Sales Development Rep",
+    "company": {
+      "id": "quanta-ledger",
+      "name": "Quanta Ledger",
+      "domain": "quantaledger.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quantaledger.com.ico"
+    },
+    "job_type": "sales",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 34000,
+      "max": 48000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Negotiation",
+      "SaaS"
+    ],
+    "posted_at": "2026-08-25T21:51:00.000Z",
+    "url": "https://jobs.example.com/quanta-ledger/100287"
+  },
+  {
+    "id": 100294,
+    "title": "Principal Product Manager",
+    "company": {
+      "id": "atlas-freight",
+      "name": "Atlas Freight",
+      "domain": "atlasfreight.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/atlasfreight.co.ico"
+    },
+    "job_type": "product",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 115000,
+      "max": 128000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "B2B SaaS",
+      "Discovery"
+    ],
+    "posted_at": "2026-10-04T11:09:00.000Z",
+    "url": "https://jobs.example.com/atlas-freight/100294"
+  },
+  {
+    "id": 100301,
+    "title": "Senior Machine Learning Engineer",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "data",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 77000,
+      "max": 97000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "dbt"
+    ],
+    "posted_at": "2026-09-18T16:52:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/100301"
+  },
+  {
+    "id": 100308,
+    "title": "Lead Product Owner, Payments",
+    "company": {
+      "id": "tidepool-climate",
+      "name": "Tidepool Climate",
+      "domain": "tidepool.earth",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tidepool.earth.ico"
+    },
+    "job_type": "product",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 94000,
+      "max": 117000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Analytics",
+      "B2B SaaS"
+    ],
+    "posted_at": "2026-09-18T13:43:00.000Z",
+    "url": "https://jobs.example.com/tidepool-climate/100308"
+  },
+  {
+    "id": 100315,
+    "title": "Lead UX Researcher",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "design",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "salary": null,
+    "tags": [
+      "Figma",
+      "User research"
+    ],
+    "posted_at": "2026-08-28T06:57:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/100315"
+  },
+  {
+    "id": 100322,
+    "title": "Lead Product Owner, Payments",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "product",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 102000,
+      "max": 123000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Discovery",
+      "Analytics"
+    ],
+    "posted_at": "2026-10-01T02:54:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/100322"
+  },
+  {
+    "id": 100329,
+    "title": "Senior Product Manager",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "product",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 85000,
+      "max": 107000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "B2B SaaS",
+      "Discovery"
+    ],
+    "posted_at": "2026-09-30T17:24:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/100329"
+  },
+  {
+    "id": 100336,
+    "title": "Principal Data Scientist",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "data",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": {
+      "min": 185000,
+      "max": 208000,
+      "currency": "USD"
+    },
+    "tags": [
+      "BigQuery",
+      "Python"
+    ],
+    "posted_at": "2026-09-19T18:07:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/100336"
+  },
+  {
+    "id": 100343,
+    "title": "Principal Product Designer",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "design",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": null,
+    "tags": [
+      "User research",
+      "Design systems",
+      "Prototyping"
+    ],
+    "posted_at": "2026-10-15T21:05:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/100343"
+  },
+  {
+    "id": 100350,
+    "title": "Senior Product Marketing Manager",
+    "company": {
+      "id": "hexa-mobility",
+      "name": "Hexa Mobility",
+      "domain": "hexamobility.eu",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hexamobility.eu.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": {
+      "min": 73000,
+      "max": 94000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "SEO",
+      "Lifecycle",
+      "Paid acquisition"
+    ],
+    "posted_at": "2026-09-23T14:30:00.000Z",
+    "url": "https://jobs.example.com/hexa-mobility/100350"
+  },
+  {
+    "id": 100357,
+    "title": "Principal Product Manager",
+    "company": {
+      "id": "brightloom",
+      "name": "Brightloom",
+      "domain": "brightloom.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/brightloom.co.ico"
+    },
+    "job_type": "product",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 123000,
+      "max": 138000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Analytics"
+    ],
+    "posted_at": "2026-09-14T06:11:00.000Z",
+    "url": "https://jobs.example.com/brightloom/100357"
+  },
+  {
+    "id": 100364,
+    "title": "Junior Solutions Engineer",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "sales",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "France"
+    },
+    "salary": {
+      "min": 49000,
+      "max": 62000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Salesforce",
+      "Enterprise"
+    ],
+    "posted_at": "2026-10-13T01:59:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/100364"
+  },
+  {
+    "id": 100371,
+    "title": "Design Systems Designer",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "design",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Sweden"
+    },
+    "salary": null,
+    "tags": [
+      "Design systems",
+      "Prototyping"
+    ],
+    "posted_at": "2026-10-06T04:43:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/100371"
+  },
+  {
+    "id": 100378,
+    "title": "Growth Marketer",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "marketing",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 70000,
+      "max": 88000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Lifecycle",
+      "Content"
+    ],
+    "posted_at": "2026-10-13T15:20:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/100378"
+  },
+  {
+    "id": 100385,
+    "title": "Senior Brand Designer",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "design",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": null,
+    "tags": [
+      "Figma",
+      "User research",
+      "Accessibility"
+    ],
+    "posted_at": "2026-09-02T07:20:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/100385"
+  },
+  {
+    "id": 100392,
+    "title": "Operations Manager",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "operations",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Germany"
+    },
+    "salary": null,
+    "tags": [
+      "Hiring",
+      "Finance",
+      "Compliance"
+    ],
+    "posted_at": "2026-09-28T08:44:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/100392"
+  },
+  {
+    "id": 100399,
+    "title": "Principal Frontend Engineer",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": null,
+    "tags": [
+      "Go"
+    ],
+    "posted_at": "2026-08-25T00:05:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/100399"
+  },
+  {
+    "id": 100406,
+    "title": "Senior Product Marketing Manager",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": null,
+    "tags": [
+      "Content",
+      "SEO",
+      "Paid acquisition"
+    ],
+    "posted_at": "2026-10-18T08:32:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/100406"
+  },
+  {
+    "id": 100413,
+    "title": "Lead Technical Product Manager",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "product",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": null,
+    "tags": [
+      "Discovery"
+    ],
+    "posted_at": "2026-09-19T18:44:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100413"
+  },
+  {
+    "id": 100420,
+    "title": "Senior Full-Stack Engineer",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 90000,
+      "max": 112000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Python",
+      "GraphQL",
+      "PostgreSQL",
+      "Kubernetes"
+    ],
+    "posted_at": "2026-10-08T17:02:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100420"
+  },
+  {
+    "id": 100427,
+    "title": "Design Systems Designer",
+    "company": {
+      "id": "orbital-foods",
+      "name": "Orbital Foods",
+      "domain": "orbitalfoods.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/orbitalfoods.com.ico"
+    },
+    "job_type": "design",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": null,
+    "tags": [
+      "Figma"
+    ],
+    "posted_at": "2026-09-24T21:07:00.000Z",
+    "url": "https://jobs.example.com/orbital-foods/100427"
+  },
+  {
+    "id": 100434,
+    "title": "Senior Product Manager",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "product",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 76000,
+      "max": 95000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Roadmapping",
+      "B2B SaaS"
+    ],
+    "posted_at": "2026-08-24T17:06:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100434"
+  },
+  {
+    "id": 100441,
+    "title": "Junior Product Marketing Manager",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "marketing",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": {
+      "min": 40000,
+      "max": 55000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Content",
+      "Paid acquisition"
+    ],
+    "posted_at": "2026-09-12T12:08:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/100441"
+  },
+  {
+    "id": 100448,
+    "title": "Principal Full-Stack Engineer",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "principal",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": null,
+    "tags": [
+      "Kubernetes",
+      "Rust",
+      "AWS"
+    ],
+    "posted_at": "2026-09-03T02:08:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/100448"
+  },
+  {
+    "id": 100455,
+    "title": "Principal Full-Stack Engineer",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": {
+      "min": 113000,
+      "max": 129000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "PostgreSQL",
+      "React"
+    ],
+    "posted_at": "2026-09-27T06:16:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100455"
+  },
+  {
+    "id": 100462,
+    "title": "Senior Machine Learning Engineer",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "data",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 78000,
+      "max": 101000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Python",
+      "PyTorch",
+      "SQL"
+    ],
+    "posted_at": "2026-10-02T20:42:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/100462"
+  },
+  {
+    "id": 100469,
+    "title": "Junior Full-Stack Engineer",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "junior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 52000,
+      "max": 80000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "AWS"
+    ],
+    "posted_at": "2026-09-14T13:39:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/100469"
+  },
+  {
+    "id": 100476,
+    "title": "Junior Growth Marketer",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 51000,
+      "max": 65000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Content"
+    ],
+    "posted_at": "2026-10-06T17:52:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/100476"
+  },
+  {
+    "id": 100483,
+    "title": "Data Scientist",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "data",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 57000,
+      "max": 79000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "PyTorch",
+      "dbt"
+    ],
+    "posted_at": "2026-08-30T19:48:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100483"
+  },
+  {
+    "id": 100490,
+    "title": "Senior Data Scientist",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "data",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": null,
+    "tags": [
+      "Airflow",
+      "dbt",
+      "SQL"
+    ],
+    "posted_at": "2026-09-18T05:30:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/100490"
+  },
+  {
+    "id": 100497,
+    "title": "Lead Product Marketing Manager",
+    "company": {
+      "id": "brightloom",
+      "name": "Brightloom",
+      "domain": "brightloom.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/brightloom.co.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": null,
+    "tags": [
+      "Content",
+      "Paid acquisition",
+      "Lifecycle"
+    ],
+    "posted_at": "2026-09-20T01:58:00.000Z",
+    "url": "https://jobs.example.com/brightloom/100497"
+  },
+  {
+    "id": 100504,
+    "title": "Principal Partnerships Manager",
+    "company": {
+      "id": "tidepool-climate",
+      "name": "Tidepool Climate",
+      "domain": "tidepool.earth",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tidepool.earth.ico"
+    },
+    "job_type": "sales",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": {
+      "min": 106000,
+      "max": 122000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Enterprise",
+      "SaaS"
+    ],
+    "posted_at": "2026-09-16T10:04:00.000Z",
+    "url": "https://jobs.example.com/tidepool-climate/100504"
+  },
+  {
+    "id": 100511,
+    "title": "Junior Account Executive",
+    "company": {
+      "id": "atlas-freight",
+      "name": "Atlas Freight",
+      "domain": "atlasfreight.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/atlasfreight.co.ico"
+    },
+    "job_type": "sales",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": {
+      "min": 47000,
+      "max": 59000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Negotiation",
+      "SaaS"
+    ],
+    "posted_at": "2026-09-28T12:14:00.000Z",
+    "url": "https://jobs.example.com/atlas-freight/100511"
+  },
+  {
+    "id": 100518,
+    "title": "Lead Frontend Engineer",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 95000,
+      "max": 121000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Rust",
+      "React"
+    ],
+    "posted_at": "2026-08-22T14:40:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/100518"
+  },
+  {
+    "id": 100525,
+    "title": "Junior Brand Designer",
+    "company": {
+      "id": "tidepool-climate",
+      "name": "Tidepool Climate",
+      "domain": "tidepool.earth",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tidepool.earth.ico"
+    },
+    "job_type": "design",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 37000,
+      "max": 58000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Design systems"
+    ],
+    "posted_at": "2026-09-13T00:09:00.000Z",
+    "url": "https://jobs.example.com/tidepool-climate/100525"
+  },
+  {
+    "id": 100532,
+    "title": "Principal Account Executive",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "sales",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 109000,
+      "max": 139000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Enterprise"
+    ],
+    "posted_at": "2026-09-17T08:10:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/100532"
+  },
+  {
+    "id": 100539,
+    "title": "Principal Operations Manager",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "operations",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 114000,
+      "max": 125000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Process",
+      "Compliance",
+      "Finance"
+    ],
+    "posted_at": "2026-09-18T09:36:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/100539"
+  },
+  {
+    "id": 100546,
+    "title": "Lead Platform Engineer",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": {
+      "min": 88000,
+      "max": 107000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Kubernetes",
+      "PostgreSQL"
+    ],
+    "posted_at": "2026-09-06T13:06:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100546"
+  },
+  {
+    "id": 100553,
+    "title": "Growth Marketer",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 68000,
+      "max": 82000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Lifecycle",
+      "Content"
+    ],
+    "posted_at": "2026-09-28T07:31:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100553"
+  },
+  {
+    "id": 100560,
+    "title": "Sales Development Rep",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "sales",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 60000,
+      "max": 84000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Negotiation"
+    ],
+    "posted_at": "2026-10-04T10:03:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/100560"
+  },
+  {
+    "id": 100567,
+    "title": "Lead Design Systems Designer",
+    "company": {
+      "id": "orbital-foods",
+      "name": "Orbital Foods",
+      "domain": "orbitalfoods.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/orbitalfoods.com.ico"
+    },
+    "job_type": "design",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 103000,
+      "max": 129000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "User research"
+    ],
+    "posted_at": "2026-09-05T09:40:00.000Z",
+    "url": "https://jobs.example.com/orbital-foods/100567"
+  },
+  {
+    "id": 100574,
+    "title": "Senior Solutions Engineer",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "sales",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": {
+      "min": 124000,
+      "max": 135000,
+      "currency": "USD"
+    },
+    "tags": [
+      "Enterprise",
+      "Negotiation"
+    ],
+    "posted_at": "2026-09-04T10:02:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/100574"
+  },
+  {
+    "id": 100581,
+    "title": "Lead UX Researcher",
+    "company": {
+      "id": "hexa-mobility",
+      "name": "Hexa Mobility",
+      "domain": "hexamobility.eu",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hexamobility.eu.ico"
+    },
+    "job_type": "design",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Sweden"
+    },
+    "salary": {
+      "min": 91000,
+      "max": 111000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "User research"
+    ],
+    "posted_at": "2026-10-13T17:22:00.000Z",
+    "url": "https://jobs.example.com/hexa-mobility/100581"
+  },
+  {
+    "id": 100588,
+    "title": "Principal Brand Designer",
+    "company": {
+      "id": "brightloom",
+      "name": "Brightloom",
+      "domain": "brightloom.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/brightloom.co.ico"
+    },
+    "job_type": "design",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 106000,
+      "max": 125000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "User research",
+      "Accessibility"
+    ],
+    "posted_at": "2026-09-25T02:56:00.000Z",
+    "url": "https://jobs.example.com/brightloom/100588"
+  },
+  {
+    "id": 100595,
+    "title": "Junior Full-Stack Engineer",
+    "company": {
+      "id": "hexa-mobility",
+      "name": "Hexa Mobility",
+      "domain": "hexamobility.eu",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hexamobility.eu.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 53000,
+      "max": 63000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Kubernetes",
+      "AWS",
+      "TypeScript"
+    ],
+    "posted_at": "2026-09-09T02:35:00.000Z",
+    "url": "https://jobs.example.com/hexa-mobility/100595"
+  },
+  {
+    "id": 100602,
+    "title": "Senior Analytics Engineer",
+    "company": {
+      "id": "orbital-foods",
+      "name": "Orbital Foods",
+      "domain": "orbitalfoods.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/orbitalfoods.com.ico"
+    },
+    "job_type": "data",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 88000,
+      "max": 108000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Python"
+    ],
+    "posted_at": "2026-10-09T05:31:00.000Z",
+    "url": "https://jobs.example.com/orbital-foods/100602"
+  },
+  {
+    "id": 100609,
+    "title": "Data Engineer",
+    "company": {
+      "id": "juniper-legal",
+      "name": "Juniper Legal",
+      "domain": "juniper.law",
+      "logo_url": "https://icons.duckduckgo.com/ip3/juniper.law.ico"
+    },
+    "job_type": "data",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 64000,
+      "max": 92000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "dbt",
+      "SQL"
+    ],
+    "posted_at": "2026-09-15T14:28:00.000Z",
+    "url": "https://jobs.example.com/juniper-legal/100609"
+  },
+  {
+    "id": 100616,
+    "title": "Office Manager",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "operations",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 61000,
+      "max": 80000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Hiring",
+      "Finance"
+    ],
+    "posted_at": "2026-09-05T03:11:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/100616"
+  },
+  {
+    "id": 100623,
+    "title": "Principal Solutions Engineer",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "sales",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 119000,
+      "max": 147000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Salesforce",
+      "Enterprise"
+    ],
+    "posted_at": "2026-09-24T01:09:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/100623"
+  },
+  {
+    "id": 100630,
+    "title": "Senior Product Manager",
+    "company": {
+      "id": "quanta-ledger",
+      "name": "Quanta Ledger",
+      "domain": "quantaledger.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quantaledger.com.ico"
+    },
+    "job_type": "product",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 78000,
+      "max": 103000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Analytics"
+    ],
+    "posted_at": "2026-10-07T11:05:00.000Z",
+    "url": "https://jobs.example.com/quanta-ledger/100630"
+  },
+  {
+    "id": 100637,
+    "title": "Partnerships Manager",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "sales",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 65000,
+      "max": 89000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Enterprise"
+    ],
+    "posted_at": "2026-09-29T23:32:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/100637"
+  },
+  {
+    "id": 100644,
+    "title": "Junior Brand Designer",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "design",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 50000,
+      "max": 79000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "User research",
+      "Figma",
+      "Accessibility"
+    ],
+    "posted_at": "2026-09-13T22:38:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/100644"
+  },
+  {
+    "id": 100651,
+    "title": "Junior People Partner",
+    "company": {
+      "id": "tidepool-climate",
+      "name": "Tidepool Climate",
+      "domain": "tidepool.earth",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tidepool.earth.ico"
+    },
+    "job_type": "operations",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Spain"
+    },
+    "salary": null,
+    "tags": [
+      "Process",
+      "Compliance"
+    ],
+    "posted_at": "2026-09-12T09:35:00.000Z",
+    "url": "https://jobs.example.com/tidepool-climate/100651"
+  },
+  {
+    "id": 100658,
+    "title": "Senior Analytics Engineer",
+    "company": {
+      "id": "quanta-ledger",
+      "name": "Quanta Ledger",
+      "domain": "quantaledger.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quantaledger.com.ico"
+    },
+    "job_type": "data",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 86000,
+      "max": 100000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Airflow",
+      "dbt",
+      "Python"
+    ],
+    "posted_at": "2026-08-23T20:35:00.000Z",
+    "url": "https://jobs.example.com/quanta-ledger/100658"
+  },
+  {
+    "id": 100665,
+    "title": "Senior Product Designer",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "design",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 89000,
+      "max": 113000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Accessibility"
+    ],
+    "posted_at": "2026-10-14T22:34:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/100665"
+  },
+  {
+    "id": 100672,
+    "title": "Lead Content Lead",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 105000,
+      "max": 122000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "SEO",
+      "Content",
+      "Paid acquisition"
+    ],
+    "posted_at": "2026-10-12T00:38:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/100672"
+  },
+  {
+    "id": 100679,
+    "title": "Lead Machine Learning Engineer",
+    "company": {
+      "id": "atlas-freight",
+      "name": "Atlas Freight",
+      "domain": "atlasfreight.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/atlasfreight.co.ico"
+    },
+    "job_type": "data",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": {
+      "min": 91000,
+      "max": 121000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "SQL",
+      "Airflow"
+    ],
+    "posted_at": "2026-09-08T11:15:00.000Z",
+    "url": "https://jobs.example.com/atlas-freight/100679"
+  },
+  {
+    "id": 100686,
+    "title": "Partnerships Manager",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "sales",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 68000,
+      "max": 81000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Negotiation",
+      "Salesforce"
+    ],
+    "posted_at": "2026-09-07T11:00:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100686"
+  },
+  {
+    "id": 100693,
+    "title": "Senior Product Manager",
+    "company": {
+      "id": "orbital-foods",
+      "name": "Orbital Foods",
+      "domain": "orbitalfoods.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/orbitalfoods.com.ico"
+    },
+    "job_type": "product",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": null,
+    "tags": [
+      "Analytics",
+      "B2B SaaS"
+    ],
+    "posted_at": "2026-09-28T19:35:00.000Z",
+    "url": "https://jobs.example.com/orbital-foods/100693"
+  },
+  {
+    "id": 100700,
+    "title": "Technical Product Manager",
+    "company": {
+      "id": "tidepool-climate",
+      "name": "Tidepool Climate",
+      "domain": "tidepool.earth",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tidepool.earth.ico"
+    },
+    "job_type": "product",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": null,
+    "tags": [
+      "Roadmapping",
+      "Analytics"
+    ],
+    "posted_at": "2026-09-24T03:17:00.000Z",
+    "url": "https://jobs.example.com/tidepool-climate/100700"
+  },
+  {
+    "id": 100707,
+    "title": "Analytics Engineer",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "data",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 69000,
+      "max": 87000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "BigQuery"
+    ],
+    "posted_at": "2026-09-15T07:17:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/100707"
+  },
+  {
+    "id": 100714,
+    "title": "Technical Product Manager",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "product",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Germany"
+    },
+    "salary": null,
+    "tags": [
+      "B2B SaaS",
+      "Analytics"
+    ],
+    "posted_at": "2026-08-29T17:30:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/100714"
+  },
+  {
+    "id": 100721,
+    "title": "Senior Analytics Engineer",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "data",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 80000,
+      "max": 96000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "dbt",
+      "Airflow",
+      "SQL"
+    ],
+    "posted_at": "2026-10-12T02:00:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100721"
+  },
+  {
+    "id": 100728,
+    "title": "Full-Stack Engineer",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 62000,
+      "max": 77000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "GraphQL",
+      "PostgreSQL",
+      "React"
+    ],
+    "posted_at": "2026-09-16T05:51:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/100728"
+  },
+  {
+    "id": 100735,
+    "title": "Senior Product Designer",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "design",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 88000,
+      "max": 100000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Accessibility",
+      "Design systems"
+    ],
+    "posted_at": "2026-08-22T15:50:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/100735"
+  },
+  {
+    "id": 100742,
+    "title": "Senior Growth Marketer",
+    "company": {
+      "id": "tidepool-climate",
+      "name": "Tidepool Climate",
+      "domain": "tidepool.earth",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tidepool.earth.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 87000,
+      "max": 97000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Paid acquisition",
+      "SEO"
+    ],
+    "posted_at": "2026-08-28T21:54:00.000Z",
+    "url": "https://jobs.example.com/tidepool-climate/100742"
+  },
+  {
+    "id": 100749,
+    "title": "Lead Partnerships Manager",
+    "company": {
+      "id": "brightloom",
+      "name": "Brightloom",
+      "domain": "brightloom.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/brightloom.co.ico"
+    },
+    "job_type": "sales",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 99000,
+      "max": 126000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "SaaS",
+      "Salesforce"
+    ],
+    "posted_at": "2026-09-28T16:48:00.000Z",
+    "url": "https://jobs.example.com/brightloom/100749"
+  },
+  {
+    "id": 100756,
+    "title": "Platform Engineer",
+    "company": {
+      "id": "quanta-ledger",
+      "name": "Quanta Ledger",
+      "domain": "quantaledger.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quantaledger.com.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 62000,
+      "max": 72000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "GraphQL",
+      "Go"
+    ],
+    "posted_at": "2026-08-24T09:15:00.000Z",
+    "url": "https://jobs.example.com/quanta-ledger/100756"
+  },
+  {
+    "id": 100763,
+    "title": "Principal People Partner",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "operations",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 105000,
+      "max": 129000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Hiring",
+      "Process",
+      "Compliance"
+    ],
+    "posted_at": "2026-09-19T11:57:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/100763"
+  },
+  {
+    "id": 100770,
+    "title": "Junior Full-Stack Engineer",
+    "company": {
+      "id": "lumen-grid",
+      "name": "Lumen Grid",
+      "domain": "lumengrid.energy",
+      "logo_url": "https://icons.duckduckgo.com/ip3/lumengrid.energy.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Netherlands"
+    },
+    "salary": null,
+    "tags": [
+      "GraphQL"
+    ],
+    "posted_at": "2026-10-11T02:10:00.000Z",
+    "url": "https://jobs.example.com/lumen-grid/100770"
+  },
+  {
+    "id": 100777,
+    "title": "Junior Mobile Engineer",
+    "company": {
+      "id": "juniper-legal",
+      "name": "Juniper Legal",
+      "domain": "juniper.law",
+      "logo_url": "https://icons.duckduckgo.com/ip3/juniper.law.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "France"
+    },
+    "salary": null,
+    "tags": [
+      "React",
+      "AWS",
+      "Go"
+    ],
+    "posted_at": "2026-10-15T23:14:00.000Z",
+    "url": "https://jobs.example.com/juniper-legal/100777"
+  },
+  {
+    "id": 100784,
+    "title": "Junior Account Executive",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "sales",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 33000,
+      "max": 43000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "SaaS",
+      "Salesforce",
+      "Enterprise"
+    ],
+    "posted_at": "2026-09-01T13:36:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/100784"
+  },
+  {
+    "id": 100791,
+    "title": "Senior Product Designer",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "design",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 80000,
+      "max": 97000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Figma",
+      "User research",
+      "Design systems",
+      "Prototyping"
+    ],
+    "posted_at": "2026-09-18T22:29:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100791"
+  },
+  {
+    "id": 100798,
+    "title": "Product Owner, Payments",
+    "company": {
+      "id": "hexa-mobility",
+      "name": "Hexa Mobility",
+      "domain": "hexamobility.eu",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hexamobility.eu.ico"
+    },
+    "job_type": "product",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 63000,
+      "max": 76000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "B2B SaaS",
+      "Analytics"
+    ],
+    "posted_at": "2026-09-09T15:27:00.000Z",
+    "url": "https://jobs.example.com/hexa-mobility/100798"
+  },
+  {
+    "id": 100805,
+    "title": "Principal Mobile Engineer",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "engineering",
+    "seniority": "principal",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 118000,
+      "max": 146000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Go"
+    ],
+    "posted_at": "2026-09-09T09:10:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/100805"
+  },
+  {
+    "id": 100812,
+    "title": "Product Designer",
+    "company": {
+      "id": "atlas-freight",
+      "name": "Atlas Freight",
+      "domain": "atlasfreight.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/atlasfreight.co.ico"
+    },
+    "job_type": "design",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 66000,
+      "max": 82000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Design systems",
+      "Accessibility"
+    ],
+    "posted_at": "2026-09-05T03:45:00.000Z",
+    "url": "https://jobs.example.com/atlas-freight/100812"
+  },
+  {
+    "id": 100819,
+    "title": "Lead Brand Designer",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "design",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": {
+      "min": 154000,
+      "max": 168000,
+      "currency": "USD"
+    },
+    "tags": [
+      "Accessibility"
+    ],
+    "posted_at": "2026-08-21T11:08:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/100819"
+  },
+  {
+    "id": 100826,
+    "title": "Lead Site Reliability Engineer",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": null,
+    "tags": [
+      "GraphQL",
+      "TypeScript",
+      "Kubernetes"
+    ],
+    "posted_at": "2026-09-21T05:08:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/100826"
+  },
+  {
+    "id": 100833,
+    "title": "Principal Data Engineer",
+    "company": {
+      "id": "meadow-labs",
+      "name": "Meadow Labs",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "data",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 125000,
+      "max": 145000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Python",
+      "Airflow",
+      "BigQuery"
+    ],
+    "posted_at": "2026-10-05T09:04:00.000Z",
+    "url": "https://jobs.example.com/meadow-labs/100833"
+  },
+  {
+    "id": 100840,
+    "title": "Lead People Partner",
+    "company": {
+      "id": "atlas-freight",
+      "name": "Atlas Freight",
+      "domain": "atlasfreight.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/atlasfreight.co.ico"
+    },
+    "job_type": "operations",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 103000,
+      "max": 128000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Hiring",
+      "Finance",
+      "Compliance",
+      "Process"
+    ],
+    "posted_at": "2026-09-07T16:54:00.000Z",
+    "url": "https://jobs.example.com/atlas-freight/100840"
+  },
+  {
+    "id": 100847,
+    "title": "Finance Lead",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "operations",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 55000,
+      "max": 84000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Process",
+      "Compliance"
+    ],
+    "posted_at": "2026-10-11T13:16:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100847"
+  },
+  {
+    "id": 100854,
+    "title": "Data Scientist",
+    "company": {
+      "id": "brightloom",
+      "name": "Brightloom",
+      "domain": "brightloom.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/brightloom.co.ico"
+    },
+    "job_type": "data",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": null,
+    "tags": [
+      "PyTorch",
+      "SQL",
+      "dbt"
+    ],
+    "posted_at": "2026-09-13T01:34:00.000Z",
+    "url": "https://jobs.example.com/brightloom/100854"
+  },
+  {
+    "id": 100861,
+    "title": "Frontend Engineer",
+    "company": {
+      "id": "atlas-freight",
+      "name": "Atlas Freight",
+      "domain": "atlasfreight.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/atlasfreight.co.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 68000,
+      "max": 93000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "AWS"
+    ],
+    "posted_at": "2026-09-08T23:13:00.000Z",
+    "url": "https://jobs.example.com/atlas-freight/100861"
+  },
+  {
+    "id": 100868,
+    "title": "Senior Finance Lead",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "operations",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 81000,
+      "max": 94000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Finance",
+      "Compliance"
+    ],
+    "posted_at": "2026-10-01T02:30:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/100868"
+  },
+  {
+    "id": 100875,
+    "title": "Junior Growth Marketer",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 40000,
+      "max": 57000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Paid acquisition"
+    ],
+    "posted_at": "2026-09-26T10:40:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/100875"
+  },
+  {
+    "id": 100882,
+    "title": "Office Manager",
+    "company": {
+      "id": "quanta-ledger",
+      "name": "Quanta Ledger",
+      "domain": "quantaledger.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quantaledger.com.ico"
+    },
+    "job_type": "operations",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 68000,
+      "max": 93000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Compliance",
+      "Finance"
+    ],
+    "posted_at": "2026-09-11T01:24:00.000Z",
+    "url": "https://jobs.example.com/quanta-ledger/100882"
+  },
+  {
+    "id": 100889,
+    "title": "Lead Product Designer",
+    "company": {
+      "id": "juniper-legal",
+      "name": "Juniper Legal",
+      "domain": "juniper.law",
+      "logo_url": "https://icons.duckduckgo.com/ip3/juniper.law.ico"
+    },
+    "job_type": "design",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 94000,
+      "max": 108000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Accessibility",
+      "User research",
+      "Figma"
+    ],
+    "posted_at": "2026-09-25T04:20:00.000Z",
+    "url": "https://jobs.example.com/juniper-legal/100889"
+  },
+  {
+    "id": 100896,
+    "title": "Principal Product Manager",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "product",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": null,
+    "tags": [
+      "Roadmapping"
+    ],
+    "posted_at": "2026-10-13T07:27:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/100896"
+  },
+  {
+    "id": 100903,
+    "title": "Senior Brand Designer",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "design",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 70000,
+      "max": 91000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Figma",
+      "Accessibility"
+    ],
+    "posted_at": "2026-10-05T14:25:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/100903"
+  },
+  {
+    "id": 100910,
+    "title": "Senior Embedded Software Engineer",
+    "company": {
+      "id": "vela-payments",
+      "name": "Vela Payments",
+      "domain": "velapay.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/velapay.com.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 76000,
+      "max": 104000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "PostgreSQL",
+      "GraphQL"
+    ],
+    "posted_at": "2026-08-27T12:10:00.000Z",
+    "url": "https://jobs.example.com/vela-payments/100910"
+  },
+  {
+    "id": 100917,
+    "title": "Principal Technical Product Manager",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "product",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Croatia"
+    },
+    "salary": null,
+    "tags": [
+      "Discovery"
+    ],
+    "posted_at": "2026-09-20T06:27:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/100917"
+  },
+  {
+    "id": 100924,
+    "title": "Senior Technical Product Manager",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "product",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": null,
+    "tags": [
+      "Roadmapping",
+      "B2B SaaS"
+    ],
+    "posted_at": "2026-09-02T01:42:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/100924"
+  },
+  {
+    "id": 100931,
+    "title": "Junior Data Scientist",
+    "company": {
+      "id": "juniper-legal",
+      "name": "Juniper Legal",
+      "domain": "juniper.law",
+      "logo_url": "https://icons.duckduckgo.com/ip3/juniper.law.ico"
+    },
+    "job_type": "data",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 33000,
+      "max": 62000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "dbt",
+      "PyTorch"
+    ],
+    "posted_at": "2026-08-30T10:55:00.000Z",
+    "url": "https://jobs.example.com/juniper-legal/100931"
+  },
+  {
+    "id": 100938,
+    "title": "Lead Product Marketing Manager",
+    "company": {
+      "id": "vela-payments",
+      "name": "Vela Payments",
+      "domain": "velapay.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/velapay.com.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 101000,
+      "max": 112000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Lifecycle",
+      "Paid acquisition"
+    ],
+    "posted_at": "2026-08-23T19:25:00.000Z",
+    "url": "https://jobs.example.com/vela-payments/100938"
+  },
+  {
+    "id": 100945,
+    "title": "Principal Embedded Software Engineer",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": null,
+    "tags": [
+      "Python",
+      "Kubernetes"
+    ],
+    "posted_at": "2026-09-03T17:28:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/100945"
+  },
+  {
+    "id": 100952,
+    "title": "Data Engineer",
+    "company": {
+      "id": "tidepool-climate",
+      "name": "Tidepool Climate",
+      "domain": "tidepool.earth",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tidepool.earth.ico"
+    },
+    "job_type": "data",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": {
+      "min": 68000,
+      "max": 80000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "PyTorch",
+      "SQL",
+      "Python"
+    ],
+    "posted_at": "2026-09-01T10:53:00.000Z",
+    "url": "https://jobs.example.com/tidepool-climate/100952"
+  },
+  {
+    "id": 100959,
+    "title": "Senior Frontend Engineer",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": {
+      "min": 81000,
+      "max": 108000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "TypeScript",
+      "Kubernetes"
+    ],
+    "posted_at": "2026-08-27T14:18:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100959"
+  },
+  {
+    "id": 100966,
+    "title": "Junior Full-Stack Engineer",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 39000,
+      "max": 58000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "AWS"
+    ],
+    "posted_at": "2026-09-10T13:57:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/100966"
+  },
+  {
+    "id": 100973,
+    "title": "Principal Technical Product Manager",
+    "company": {
+      "id": "juniper-legal",
+      "name": "Juniper Legal",
+      "domain": "juniper.law",
+      "logo_url": "https://icons.duckduckgo.com/ip3/juniper.law.ico"
+    },
+    "job_type": "product",
+    "seniority": "principal",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 118000,
+      "max": 146000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Discovery",
+      "B2B SaaS",
+      "Roadmapping",
+      "Analytics"
+    ],
+    "posted_at": "2026-09-15T01:10:00.000Z",
+    "url": "https://jobs.example.com/juniper-legal/100973"
+  },
+  {
+    "id": 100980,
+    "title": "Principal Product Owner, Payments",
+    "company": {
+      "id": "tidepool-climate",
+      "name": "Tidepool Climate",
+      "domain": "tidepool.earth",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tidepool.earth.ico"
+    },
+    "job_type": "product",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 114000,
+      "max": 143000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "B2B SaaS"
+    ],
+    "posted_at": "2026-10-07T13:32:00.000Z",
+    "url": "https://jobs.example.com/tidepool-climate/100980"
+  },
+  {
+    "id": 100987,
+    "title": "Senior Brand Designer",
+    "company": {
+      "id": "meadow-labs",
+      "name": "Meadow Labs",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "design",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": {
+      "min": 79000,
+      "max": 91000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Prototyping"
+    ],
+    "posted_at": "2026-09-12T15:52:00.000Z",
+    "url": "https://jobs.example.com/meadow-labs/100987"
+  },
+  {
+    "id": 100994,
+    "title": "Lead Product Owner, Payments",
+    "company": {
+      "id": "juniper-legal",
+      "name": "Juniper Legal",
+      "domain": "juniper.law",
+      "logo_url": "https://icons.duckduckgo.com/ip3/juniper.law.ico"
+    },
+    "job_type": "product",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": null,
+    "tags": [
+      "Discovery"
+    ],
+    "posted_at": "2026-10-02T23:52:00.000Z",
+    "url": "https://jobs.example.com/juniper-legal/100994"
+  },
+  {
+    "id": 101001,
+    "title": "Lead Office Manager",
+    "company": {
+      "id": "vela-payments",
+      "name": "Vela Payments",
+      "domain": "velapay.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/velapay.com.ico"
+    },
+    "job_type": "operations",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 104000,
+      "max": 121000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Compliance",
+      "Process"
+    ],
+    "posted_at": "2026-09-24T13:21:00.000Z",
+    "url": "https://jobs.example.com/vela-payments/101001"
+  },
+  {
+    "id": 101008,
+    "title": "Senior Product Manager",
+    "company": {
+      "id": "vela-payments",
+      "name": "Vela Payments",
+      "domain": "velapay.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/velapay.com.ico"
+    },
+    "job_type": "product",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Sweden"
+    },
+    "salary": null,
+    "tags": [
+      "Discovery",
+      "Roadmapping"
+    ],
+    "posted_at": "2026-08-31T03:13:00.000Z",
+    "url": "https://jobs.example.com/vela-payments/101008"
+  },
+  {
+    "id": 101015,
+    "title": "Senior Technical Product Manager",
+    "company": {
+      "id": "orbital-foods",
+      "name": "Orbital Foods",
+      "domain": "orbitalfoods.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/orbitalfoods.com.ico"
+    },
+    "job_type": "product",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 79000,
+      "max": 109000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Analytics"
+    ],
+    "posted_at": "2026-09-03T07:39:00.000Z",
+    "url": "https://jobs.example.com/orbital-foods/101015"
+  },
+  {
+    "id": 101022,
+    "title": "Principal Data Engineer",
+    "company": {
+      "id": "vela-payments",
+      "name": "Vela Payments",
+      "domain": "velapay.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/velapay.com.ico"
+    },
+    "job_type": "data",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 117000,
+      "max": 139000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "BigQuery",
+      "Python",
+      "PyTorch"
+    ],
+    "posted_at": "2026-09-26T06:17:00.000Z",
+    "url": "https://jobs.example.com/vela-payments/101022"
+  },
+  {
+    "id": 101029,
+    "title": "Mobile Engineer",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 52000,
+      "max": 79000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Python",
+      "Rust",
+      "React"
+    ],
+    "posted_at": "2026-09-20T23:57:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/101029"
+  },
+  {
+    "id": 101036,
+    "title": "Junior Account Executive",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "sales",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 41000,
+      "max": 67000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Salesforce",
+      "Enterprise",
+      "Negotiation"
+    ],
+    "posted_at": "2026-09-04T17:39:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/101036"
+  },
+  {
+    "id": 101043,
+    "title": "Lead UX Researcher",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "design",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": {
+      "min": 155000,
+      "max": 173000,
+      "currency": "USD"
+    },
+    "tags": [
+      "Accessibility",
+      "Design systems",
+      "Prototyping"
+    ],
+    "posted_at": "2026-09-28T03:58:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/101043"
+  },
+  {
+    "id": 101050,
+    "title": "Lead UX Researcher",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "design",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 105000,
+      "max": 128000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Design systems",
+      "Figma"
+    ],
+    "posted_at": "2026-09-03T16:00:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/101050"
+  },
+  {
+    "id": 101057,
+    "title": "Senior Growth Marketer",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": {
+      "min": 71000,
+      "max": 89000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Paid acquisition"
+    ],
+    "posted_at": "2026-09-19T18:26:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/101057"
+  },
+  {
+    "id": 101064,
+    "title": "Senior Technical Product Manager",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "product",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 72000,
+      "max": 100000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Roadmapping"
+    ],
+    "posted_at": "2026-09-07T19:34:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/101064"
+  },
+  {
+    "id": 101071,
+    "title": "Senior Product Manager",
+    "company": {
+      "id": "juniper-legal",
+      "name": "Juniper Legal",
+      "domain": "juniper.law",
+      "logo_url": "https://icons.duckduckgo.com/ip3/juniper.law.ico"
+    },
+    "job_type": "product",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 79000,
+      "max": 96000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Discovery",
+      "B2B SaaS"
+    ],
+    "posted_at": "2026-10-14T03:06:00.000Z",
+    "url": "https://jobs.example.com/juniper-legal/101071"
+  },
+  {
+    "id": 101078,
+    "title": "Lead Sales Development Rep",
+    "company": {
+      "id": "vela-payments",
+      "name": "Vela Payments",
+      "domain": "velapay.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/velapay.com.ico"
+    },
+    "job_type": "sales",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": {
+      "min": 153000,
+      "max": 168000,
+      "currency": "USD"
+    },
+    "tags": [
+      "Salesforce",
+      "Enterprise",
+      "SaaS"
+    ],
+    "posted_at": "2026-09-05T00:29:00.000Z",
+    "url": "https://jobs.example.com/vela-payments/101078"
+  },
+  {
+    "id": 101085,
+    "title": "Junior Office Manager",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "operations",
+    "seniority": "junior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": null,
+    "tags": [
+      "Process",
+      "Finance"
+    ],
+    "posted_at": "2026-10-15T04:51:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/101085"
+  },
+  {
+    "id": 101092,
+    "title": "Lead Frontend Engineer",
+    "company": {
+      "id": "hexa-mobility",
+      "name": "Hexa Mobility",
+      "domain": "hexamobility.eu",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hexamobility.eu.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Croatia"
+    },
+    "salary": null,
+    "tags": [
+      "TypeScript"
+    ],
+    "posted_at": "2026-09-22T13:16:00.000Z",
+    "url": "https://jobs.example.com/hexa-mobility/101092"
+  },
+  {
+    "id": 101099,
+    "title": "Junior Growth Marketer",
+    "company": {
+      "id": "quanta-ledger",
+      "name": "Quanta Ledger",
+      "domain": "quantaledger.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quantaledger.com.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": null,
+    "tags": [
+      "Paid acquisition",
+      "SEO"
+    ],
+    "posted_at": "2026-10-12T11:13:00.000Z",
+    "url": "https://jobs.example.com/quanta-ledger/101099"
+  },
+  {
+    "id": 101106,
+    "title": "Senior People Partner",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "operations",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 71000,
+      "max": 81000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Finance",
+      "Hiring",
+      "Compliance"
+    ],
+    "posted_at": "2026-09-07T05:21:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/101106"
+  },
+  {
+    "id": 101113,
+    "title": "Principal Operations Manager",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "operations",
+    "seniority": "principal",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": {
+      "min": 191000,
+      "max": 202000,
+      "currency": "USD"
+    },
+    "tags": [
+      "Hiring"
+    ],
+    "posted_at": "2026-09-01T22:51:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/101113"
+  },
+  {
+    "id": 101120,
+    "title": "Senior Office Manager",
+    "company": {
+      "id": "vela-payments",
+      "name": "Vela Payments",
+      "domain": "velapay.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/velapay.com.ico"
+    },
+    "job_type": "operations",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 90000,
+      "max": 104000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Compliance",
+      "Hiring",
+      "Process"
+    ],
+    "posted_at": "2026-08-31T13:14:00.000Z",
+    "url": "https://jobs.example.com/vela-payments/101120"
+  },
+  {
+    "id": 101127,
+    "title": "Lead Product Manager",
+    "company": {
+      "id": "orbital-foods",
+      "name": "Orbital Foods",
+      "domain": "orbitalfoods.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/orbitalfoods.com.ico"
+    },
+    "job_type": "product",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 102000,
+      "max": 129000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Discovery",
+      "Analytics",
+      "B2B SaaS"
+    ],
+    "posted_at": "2026-09-06T23:40:00.000Z",
+    "url": "https://jobs.example.com/orbital-foods/101127"
+  },
+  {
+    "id": 101134,
+    "title": "Lead Office Manager",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "operations",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 89000,
+      "max": 104000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Hiring"
+    ],
+    "posted_at": "2026-10-01T14:08:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/101134"
+  },
+  {
+    "id": 101141,
+    "title": "Senior Frontend Engineer",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 74000,
+      "max": 87000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Go",
+      "Python"
+    ],
+    "posted_at": "2026-09-02T17:29:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/101141"
+  },
+  {
+    "id": 101148,
+    "title": "Senior Product Marketing Manager",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 78000,
+      "max": 92000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Content"
+    ],
+    "posted_at": "2026-09-15T14:56:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/101148"
+  },
+  {
+    "id": 101155,
+    "title": "Lead Account Executive",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "sales",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 99000,
+      "max": 122000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "SaaS",
+      "Negotiation",
+      "Salesforce"
+    ],
+    "posted_at": "2026-09-14T01:34:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/101155"
+  },
+  {
+    "id": 101162,
+    "title": "Principal Machine Learning Engineer",
+    "company": {
+      "id": "hexa-mobility",
+      "name": "Hexa Mobility",
+      "domain": "hexamobility.eu",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hexamobility.eu.ico"
+    },
+    "job_type": "data",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": {
+      "min": 122000,
+      "max": 142000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "SQL"
+    ],
+    "posted_at": "2026-09-03T20:51:00.000Z",
+    "url": "https://jobs.example.com/hexa-mobility/101162"
+  },
+  {
+    "id": 101169,
+    "title": "Senior Data Scientist",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "data",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 86000,
+      "max": 112000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "SQL"
+    ],
+    "posted_at": "2026-10-20T06:31:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/101169"
+  },
+  {
+    "id": 101176,
+    "title": "Lead Embedded Software Engineer",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 97000,
+      "max": 107000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "GraphQL",
+      "React",
+      "TypeScript"
+    ],
+    "posted_at": "2026-09-11T19:45:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/101176"
+  },
+  {
+    "id": 101183,
+    "title": "Lead Full-Stack Engineer",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 97000,
+      "max": 124000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Kubernetes",
+      "Python",
+      "TypeScript",
+      "GraphQL"
+    ],
+    "posted_at": "2026-10-15T11:19:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/101183"
+  },
+  {
+    "id": 101190,
+    "title": "Principal Machine Learning Engineer",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "data",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 122000,
+      "max": 136000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "BigQuery",
+      "SQL",
+      "dbt"
+    ],
+    "posted_at": "2026-09-12T14:37:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/101190"
+  },
+  {
+    "id": 101197,
+    "title": "UX Researcher",
+    "company": {
+      "id": "orbital-foods",
+      "name": "Orbital Foods",
+      "domain": "orbitalfoods.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/orbitalfoods.com.ico"
+    },
+    "job_type": "design",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 63000,
+      "max": 86000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "User research",
+      "Design systems",
+      "Accessibility"
+    ],
+    "posted_at": "2026-09-24T18:20:00.000Z",
+    "url": "https://jobs.example.com/orbital-foods/101197"
+  },
+  {
+    "id": 101204,
+    "title": "Junior Platform Engineer",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "engineering",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": {
+      "min": 35000,
+      "max": 49000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "AWS",
+      "PostgreSQL",
+      "TypeScript",
+      "Rust"
+    ],
+    "posted_at": "2026-09-28T15:44:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/101204"
+  },
+  {
+    "id": 101211,
+    "title": "Junior Growth Marketer",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "junior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": {
+      "min": 41000,
+      "max": 58000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "SEO",
+      "Paid acquisition"
+    ],
+    "posted_at": "2026-09-07T03:18:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/101211"
+  },
+  {
+    "id": 101218,
+    "title": "Lead Mobile Engineer",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 88000,
+      "max": 105000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "PostgreSQL",
+      "AWS"
+    ],
+    "posted_at": "2026-10-03T16:27:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/101218"
+  },
+  {
+    "id": 101225,
+    "title": "Senior Partnerships Manager",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "sales",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": null,
+    "tags": [
+      "SaaS",
+      "Enterprise",
+      "Negotiation"
+    ],
+    "posted_at": "2026-08-22T04:12:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/101225"
+  },
+  {
+    "id": 101232,
+    "title": "Lead Analytics Engineer",
+    "company": {
+      "id": "juniper-legal",
+      "name": "Juniper Legal",
+      "domain": "juniper.law",
+      "logo_url": "https://icons.duckduckgo.com/ip3/juniper.law.ico"
+    },
+    "job_type": "data",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 85000,
+      "max": 109000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Airflow"
+    ],
+    "posted_at": "2026-10-08T07:07:00.000Z",
+    "url": "https://jobs.example.com/juniper-legal/101232"
+  },
+  {
+    "id": 101239,
+    "title": "Senior People Partner",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "operations",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": {
+      "min": 134000,
+      "max": 148000,
+      "currency": "USD"
+    },
+    "tags": [
+      "Finance",
+      "Hiring",
+      "Compliance"
+    ],
+    "posted_at": "2026-10-05T06:18:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/101239"
+  },
+  {
+    "id": 101246,
+    "title": "Senior UX Researcher",
+    "company": {
+      "id": "atlas-freight",
+      "name": "Atlas Freight",
+      "domain": "atlasfreight.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/atlasfreight.co.ico"
+    },
+    "job_type": "design",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": {
+      "min": 127000,
+      "max": 146000,
+      "currency": "USD"
+    },
+    "tags": [
+      "Figma",
+      "Design systems"
+    ],
+    "posted_at": "2026-09-08T04:06:00.000Z",
+    "url": "https://jobs.example.com/atlas-freight/101246"
+  },
+  {
+    "id": 101253,
+    "title": "Lead Account Executive",
+    "company": {
+      "id": "vela-payments",
+      "name": "Vela Payments",
+      "domain": "velapay.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/velapay.com.ico"
+    },
+    "job_type": "sales",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 102000,
+      "max": 121000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Enterprise"
+    ],
+    "posted_at": "2026-08-24T16:55:00.000Z",
+    "url": "https://jobs.example.com/vela-payments/101253"
+  },
+  {
+    "id": 101260,
+    "title": "Lead Content Lead",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": null,
+    "tags": [
+      "Paid acquisition",
+      "Content"
+    ],
+    "posted_at": "2026-10-09T19:10:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/101260"
+  },
+  {
+    "id": 101267,
+    "title": "Senior Backend Engineer",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": null,
+    "tags": [
+      "React",
+      "PostgreSQL",
+      "Rust"
+    ],
+    "posted_at": "2026-09-14T18:03:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/101267"
+  },
+  {
+    "id": 101274,
+    "title": "Principal Product Manager",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "product",
+    "seniority": "principal",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 109000,
+      "max": 122000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Analytics"
+    ],
+    "posted_at": "2026-08-22T11:58:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/101274"
+  },
+  {
+    "id": 101281,
+    "title": "UX Researcher",
+    "company": {
+      "id": "atlas-freight",
+      "name": "Atlas Freight",
+      "domain": "atlasfreight.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/atlasfreight.co.ico"
+    },
+    "job_type": "design",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 52000,
+      "max": 67000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Design systems"
+    ],
+    "posted_at": "2026-09-03T17:18:00.000Z",
+    "url": "https://jobs.example.com/atlas-freight/101281"
+  },
+  {
+    "id": 101288,
+    "title": "Lead Design Systems Designer",
+    "company": {
+      "id": "quanta-ledger",
+      "name": "Quanta Ledger",
+      "domain": "quantaledger.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quantaledger.com.ico"
+    },
+    "job_type": "design",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 94000,
+      "max": 113000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Prototyping"
+    ],
+    "posted_at": "2026-10-10T09:12:00.000Z",
+    "url": "https://jobs.example.com/quanta-ledger/101288"
+  },
+  {
+    "id": 101295,
+    "title": "Principal Platform Engineer",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": {
+      "min": 121000,
+      "max": 140000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Python",
+      "Kubernetes",
+      "GraphQL",
+      "TypeScript"
+    ],
+    "posted_at": "2026-09-22T14:18:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/101295"
+  },
+  {
+    "id": 101302,
+    "title": "Lead Design Systems Designer",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "design",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Portugal"
+    },
+    "salary": null,
+    "tags": [
+      "Accessibility",
+      "Design systems",
+      "Figma"
+    ],
+    "posted_at": "2026-09-08T07:28:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/101302"
+  },
+  {
+    "id": 101309,
+    "title": "Principal Operations Manager",
+    "company": {
+      "id": "juniper-legal",
+      "name": "Juniper Legal",
+      "domain": "juniper.law",
+      "logo_url": "https://icons.duckduckgo.com/ip3/juniper.law.ico"
+    },
+    "job_type": "operations",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": {
+      "min": 123000,
+      "max": 144000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Finance",
+      "Hiring"
+    ],
+    "posted_at": "2026-09-27T21:21:00.000Z",
+    "url": "https://jobs.example.com/juniper-legal/101309"
+  },
+  {
+    "id": 101316,
+    "title": "Junior People Partner",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "operations",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "United Kingdom"
+    },
+    "salary": null,
+    "tags": [
+      "Finance",
+      "Compliance",
+      "Hiring"
+    ],
+    "posted_at": "2026-08-25T02:43:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/101316"
+  },
+  {
+    "id": 101323,
+    "title": "Junior Platform Engineer",
+    "company": {
+      "id": "quanta-ledger",
+      "name": "Quanta Ledger",
+      "domain": "quantaledger.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quantaledger.com.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "junior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 34000,
+      "max": 45000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Kubernetes",
+      "Rust",
+      "Go"
+    ],
+    "posted_at": "2026-10-15T08:39:00.000Z",
+    "url": "https://jobs.example.com/quanta-ledger/101323"
+  },
+  {
+    "id": 101330,
+    "title": "Partnerships Manager",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "sales",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 50000,
+      "max": 73000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Salesforce"
+    ],
+    "posted_at": "2026-09-06T08:11:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/101330"
+  },
+  {
+    "id": 101337,
+    "title": "Senior Account Executive",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "sales",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 84000,
+      "max": 99000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Enterprise"
+    ],
+    "posted_at": "2026-09-18T01:42:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/101337"
+  },
+  {
+    "id": 101344,
+    "title": "UX Researcher",
+    "company": {
+      "id": "lumen-grid",
+      "name": "Lumen Grid",
+      "domain": "lumengrid.energy",
+      "logo_url": "https://icons.duckduckgo.com/ip3/lumengrid.energy.ico"
+    },
+    "job_type": "design",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 58000,
+      "max": 78000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "User research",
+      "Design systems"
+    ],
+    "posted_at": "2026-10-19T13:32:00.000Z",
+    "url": "https://jobs.example.com/lumen-grid/101344"
+  },
+  {
+    "id": 101351,
+    "title": "Design Systems Designer",
+    "company": {
+      "id": "meadow-labs",
+      "name": "Meadow Labs",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "design",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "France"
+    },
+    "salary": null,
+    "tags": [
+      "Design systems",
+      "User research"
+    ],
+    "posted_at": "2026-09-01T01:38:00.000Z",
+    "url": "https://jobs.example.com/meadow-labs/101351"
+  },
+  {
+    "id": 101358,
+    "title": "Lead Product Marketing Manager",
+    "company": {
+      "id": "quanta-ledger",
+      "name": "Quanta Ledger",
+      "domain": "quantaledger.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quantaledger.com.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": {
+      "min": 97000,
+      "max": 107000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Lifecycle"
+    ],
+    "posted_at": "2026-09-19T05:48:00.000Z",
+    "url": "https://jobs.example.com/quanta-ledger/101358"
+  },
+  {
+    "id": 101365,
+    "title": "Sales Development Rep",
+    "company": {
+      "id": "meadow-labs",
+      "name": "Meadow Labs",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "sales",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 56000,
+      "max": 76000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Negotiation",
+      "SaaS"
+    ],
+    "posted_at": "2026-09-10T15:11:00.000Z",
+    "url": "https://jobs.example.com/meadow-labs/101365"
+  },
+  {
+    "id": 101372,
+    "title": "Lead Partnerships Manager",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "sales",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 100000,
+      "max": 114000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "SaaS"
+    ],
+    "posted_at": "2026-09-22T15:24:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/101372"
+  },
+  {
+    "id": 101379,
+    "title": "Lead Data Engineer",
+    "company": {
+      "id": "tidepool-climate",
+      "name": "Tidepool Climate",
+      "domain": "tidepool.earth",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tidepool.earth.ico"
+    },
+    "job_type": "data",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Sweden"
+    },
+    "salary": null,
+    "tags": [
+      "dbt",
+      "SQL",
+      "BigQuery"
+    ],
+    "posted_at": "2026-09-04T18:00:00.000Z",
+    "url": "https://jobs.example.com/tidepool-climate/101379"
+  },
+  {
+    "id": 101386,
+    "title": "Senior Technical Product Manager",
+    "company": {
+      "id": "quanta-ledger",
+      "name": "Quanta Ledger",
+      "domain": "quantaledger.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quantaledger.com.ico"
+    },
+    "job_type": "product",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": null,
+    "tags": [
+      "Roadmapping",
+      "B2B SaaS"
+    ],
+    "posted_at": "2026-10-13T21:38:00.000Z",
+    "url": "https://jobs.example.com/quanta-ledger/101386"
+  },
+  {
+    "id": 101393,
+    "title": "Senior People Partner",
+    "company": {
+      "id": "meadow-labs",
+      "name": "Meadow Labs",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "operations",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": null,
+    "tags": [
+      "Hiring",
+      "Compliance",
+      "Process"
+    ],
+    "posted_at": "2026-09-14T07:34:00.000Z",
+    "url": "https://jobs.example.com/meadow-labs/101393"
+  },
+  {
+    "id": 101400,
+    "title": "Junior Frontend Engineer",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": {
+      "min": 52000,
+      "max": 81000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Python",
+      "TypeScript",
+      "Rust"
+    ],
+    "posted_at": "2026-09-10T09:08:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/101400"
+  },
+  {
+    "id": 101407,
+    "title": "Principal Product Owner, Payments",
+    "company": {
+      "id": "hexa-mobility",
+      "name": "Hexa Mobility",
+      "domain": "hexamobility.eu",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hexamobility.eu.ico"
+    },
+    "job_type": "product",
+    "seniority": "principal",
+    "work_mode": "remote",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 119000,
+      "max": 129000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Discovery",
+      "B2B SaaS"
+    ],
+    "posted_at": "2026-08-24T00:29:00.000Z",
+    "url": "https://jobs.example.com/hexa-mobility/101407"
+  },
+  {
+    "id": 101414,
+    "title": "Product Manager",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "product",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 50000,
+      "max": 69000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Analytics"
+    ],
+    "posted_at": "2026-09-28T02:02:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/101414"
+  },
+  {
+    "id": 101421,
+    "title": "Principal UX Researcher",
+    "company": {
+      "id": "lumen-grid",
+      "name": "Lumen Grid",
+      "domain": "lumengrid.energy",
+      "logo_url": "https://icons.duckduckgo.com/ip3/lumengrid.energy.ico"
+    },
+    "job_type": "design",
+    "seniority": "principal",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": null,
+    "tags": [
+      "User research",
+      "Design systems",
+      "Figma"
+    ],
+    "posted_at": "2026-09-24T20:05:00.000Z",
+    "url": "https://jobs.example.com/lumen-grid/101421"
+  },
+  {
+    "id": 101428,
+    "title": "Junior Brand Designer",
+    "company": {
+      "id": "brightloom",
+      "name": "Brightloom",
+      "domain": "brightloom.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/brightloom.co.ico"
+    },
+    "job_type": "design",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 35000,
+      "max": 57000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Figma"
+    ],
+    "posted_at": "2026-09-20T11:07:00.000Z",
+    "url": "https://jobs.example.com/brightloom/101428"
+  },
+  {
+    "id": 101435,
+    "title": "Design Systems Designer",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "design",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 56000,
+      "max": 69000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Prototyping",
+      "User research",
+      "Accessibility"
+    ],
+    "posted_at": "2026-10-06T06:32:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/101435"
+  },
+  {
+    "id": 101442,
+    "title": "Senior Content Lead",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 78000,
+      "max": 95000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Content",
+      "Paid acquisition"
+    ],
+    "posted_at": "2026-10-03T08:59:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/101442"
+  },
+  {
+    "id": 101449,
+    "title": "Principal Operations Manager",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "operations",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": {
+      "min": 189000,
+      "max": 207000,
+      "currency": "USD"
+    },
+    "tags": [
+      "Hiring",
+      "Process"
+    ],
+    "posted_at": "2026-09-21T13:21:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/101449"
+  },
+  {
+    "id": 101456,
+    "title": "Senior Operations Manager",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "operations",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": {
+      "min": 82000,
+      "max": 94000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Hiring",
+      "Finance",
+      "Process"
+    ],
+    "posted_at": "2026-08-22T08:56:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/101456"
+  },
+  {
+    "id": 101463,
+    "title": "Junior Embedded Software Engineer",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": null,
+    "tags": [
+      "Rust"
+    ],
+    "posted_at": "2026-09-04T20:28:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/101463"
+  },
+  {
+    "id": 101470,
+    "title": "Senior Site Reliability Engineer",
+    "company": {
+      "id": "hexa-mobility",
+      "name": "Hexa Mobility",
+      "domain": "hexamobility.eu",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hexamobility.eu.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 82000,
+      "max": 106000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Rust",
+      "TypeScript"
+    ],
+    "posted_at": "2026-10-15T15:49:00.000Z",
+    "url": "https://jobs.example.com/hexa-mobility/101470"
+  },
+  {
+    "id": 101477,
+    "title": "Lead Data Engineer",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "data",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 99000,
+      "max": 111000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "dbt",
+      "Python",
+      "PyTorch"
+    ],
+    "posted_at": "2026-10-18T12:56:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/101477"
+  },
+  {
+    "id": 101484,
+    "title": "Content Lead",
+    "company": {
+      "id": "parcel-pilot",
+      "name": "Parcel Pilot",
+      "domain": "parcelpilot.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/parcelpilot.io.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": null,
+    "tags": [
+      "Lifecycle",
+      "SEO",
+      "Content"
+    ],
+    "posted_at": "2026-09-26T10:50:00.000Z",
+    "url": "https://jobs.example.com/parcel-pilot/101484"
+  },
+  {
+    "id": 101491,
+    "title": "Junior Machine Learning Engineer",
+    "company": {
+      "id": "tidepool-climate",
+      "name": "Tidepool Climate",
+      "domain": "tidepool.earth",
+      "logo_url": "https://icons.duckduckgo.com/ip3/tidepool.earth.ico"
+    },
+    "job_type": "data",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 47000,
+      "max": 60000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "SQL",
+      "Airflow",
+      "PyTorch"
+    ],
+    "posted_at": "2026-09-29T15:18:00.000Z",
+    "url": "https://jobs.example.com/tidepool-climate/101491"
+  },
+  {
+    "id": 101498,
+    "title": "Content Lead",
+    "company": {
+      "id": "hexa-mobility",
+      "name": "Hexa Mobility",
+      "domain": "hexamobility.eu",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hexamobility.eu.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": {
+      "min": 56000,
+      "max": 70000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "SEO"
+    ],
+    "posted_at": "2026-10-08T07:52:00.000Z",
+    "url": "https://jobs.example.com/hexa-mobility/101498"
+  },
+  {
+    "id": 101505,
+    "title": "Lead Sales Development Rep",
+    "company": {
+      "id": "vela-payments",
+      "name": "Vela Payments",
+      "domain": "velapay.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/velapay.com.ico"
+    },
+    "job_type": "sales",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": null,
+    "tags": [
+      "Salesforce"
+    ],
+    "posted_at": "2026-09-12T20:58:00.000Z",
+    "url": "https://jobs.example.com/vela-payments/101505"
+  },
+  {
+    "id": 101512,
+    "title": "Senior Frontend Engineer",
+    "company": {
+      "id": "hexa-mobility",
+      "name": "Hexa Mobility",
+      "domain": "hexamobility.eu",
+      "logo_url": "https://icons.duckduckgo.com/ip3/hexamobility.eu.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "senior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": {
+      "min": 127000,
+      "max": 155000,
+      "currency": "USD"
+    },
+    "tags": [
+      "Python"
+    ],
+    "posted_at": "2026-10-19T16:25:00.000Z",
+    "url": "https://jobs.example.com/hexa-mobility/101512"
+  },
+  {
+    "id": 101519,
+    "title": "Senior Machine Learning Engineer",
+    "company": {
+      "id": "atlas-freight",
+      "name": "Atlas Freight",
+      "domain": "atlasfreight.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/atlasfreight.co.ico"
+    },
+    "job_type": "data",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 71000,
+      "max": 82000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Airflow",
+      "Python",
+      "SQL"
+    ],
+    "posted_at": "2026-09-12T01:53:00.000Z",
+    "url": "https://jobs.example.com/atlas-freight/101519"
+  },
+  {
+    "id": 101526,
+    "title": "Principal Brand Designer",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "design",
+    "seniority": "principal",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "salary": {
+      "min": 113000,
+      "max": 126000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Figma",
+      "Accessibility"
+    ],
+    "posted_at": "2026-09-06T13:10:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/101526"
+  },
+  {
+    "id": 101533,
+    "title": "Junior Full-Stack Engineer",
+    "company": {
+      "id": "quanta-ledger",
+      "name": "Quanta Ledger",
+      "domain": "quantaledger.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/quantaledger.com.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": null,
+    "tags": [
+      "Kubernetes",
+      "AWS"
+    ],
+    "posted_at": "2026-10-10T18:48:00.000Z",
+    "url": "https://jobs.example.com/quanta-ledger/101533"
+  },
+  {
+    "id": 101540,
+    "title": "Senior Product Marketing Manager",
+    "company": {
+      "id": "juniper-legal",
+      "name": "Juniper Legal",
+      "domain": "juniper.law",
+      "logo_url": "https://icons.duckduckgo.com/ip3/juniper.law.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": {
+      "min": 83000,
+      "max": 93000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Paid acquisition"
+    ],
+    "posted_at": "2026-09-30T18:19:00.000Z",
+    "url": "https://jobs.example.com/juniper-legal/101540"
+  },
+  {
+    "id": 101547,
+    "title": "Lead UX Researcher",
+    "company": {
+      "id": "brightloom",
+      "name": "Brightloom",
+      "domain": "brightloom.co",
+      "logo_url": "https://icons.duckduckgo.com/ip3/brightloom.co.ico"
+    },
+    "job_type": "design",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "salary": null,
+    "tags": [
+      "User research"
+    ],
+    "posted_at": "2026-09-12T04:54:00.000Z",
+    "url": "https://jobs.example.com/brightloom/101547"
+  },
+  {
+    "id": 101554,
+    "title": "Junior Data Scientist",
+    "company": {
+      "id": "fernwood-health",
+      "name": "Fernwood Health",
+      "domain": "fernwood.health",
+      "logo_url": "https://icons.duckduckgo.com/ip3/fernwood.health.ico"
+    },
+    "job_type": "data",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": null,
+    "tags": [
+      "BigQuery",
+      "Airflow",
+      "dbt"
+    ],
+    "posted_at": "2026-10-05T21:24:00.000Z",
+    "url": "https://jobs.example.com/fernwood-health/101554"
+  },
+  {
+    "id": 101561,
+    "title": "Junior Data Scientist",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "data",
+    "seniority": "junior",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Zagreb",
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 44000,
+      "max": 68000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "SQL"
+    ],
+    "posted_at": "2026-08-25T18:40:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/101561"
+  },
+  {
+    "id": 101568,
+    "title": "Lead Data Scientist",
+    "company": {
+      "id": "lumen-grid",
+      "name": "Lumen Grid",
+      "domain": "lumengrid.energy",
+      "logo_url": "https://icons.duckduckgo.com/ip3/lumengrid.energy.ico"
+    },
+    "job_type": "data",
+    "seniority": "lead",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": null,
+    "tags": [
+      "dbt",
+      "Python"
+    ],
+    "posted_at": "2026-09-16T23:23:00.000Z",
+    "url": "https://jobs.example.com/lumen-grid/101568"
+  },
+  {
+    "id": 101575,
+    "title": "Product Marketing Manager",
+    "company": {
+      "id": "northwind-robotics",
+      "name": "Northwind Robotics",
+      "domain": "northwind.ai",
+      "logo_url": "https://icons.duckduckgo.com/ip3/northwind.ai.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 55000,
+      "max": 66000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Content"
+    ],
+    "posted_at": "2026-10-13T15:59:00.000Z",
+    "url": "https://jobs.example.com/northwind-robotics/101575"
+  },
+  {
+    "id": 101582,
+    "title": "Product Marketing Manager",
+    "company": {
+      "id": "lumen-grid",
+      "name": "Lumen Grid",
+      "domain": "lumengrid.energy",
+      "logo_url": "https://icons.duckduckgo.com/ip3/lumengrid.energy.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "mid",
+    "work_mode": "onsite",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": {
+      "min": 53000,
+      "max": 64000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Paid acquisition",
+      "Lifecycle"
+    ],
+    "posted_at": "2026-09-27T06:09:00.000Z",
+    "url": "https://jobs.example.com/lumen-grid/101582"
+  },
+  {
+    "id": 101589,
+    "title": "Analytics Engineer",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "data",
+    "seniority": "mid",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 67000,
+      "max": 93000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "dbt"
+    ],
+    "posted_at": "2026-09-12T01:21:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/101589"
+  },
+  {
+    "id": 101596,
+    "title": "Embedded Software Engineer",
+    "company": {
+      "id": "vela-payments",
+      "name": "Vela Payments",
+      "domain": "velapay.com",
+      "logo_url": "https://icons.duckduckgo.com/ip3/velapay.com.ico"
+    },
+    "job_type": "engineering",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": {
+      "min": 68000,
+      "max": 88000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "GraphQL",
+      "TypeScript",
+      "Python"
+    ],
+    "posted_at": "2026-09-22T02:17:00.000Z",
+    "url": "https://jobs.example.com/vela-payments/101596"
+  },
+  {
+    "id": 101603,
+    "title": "Data Scientist",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "data",
+    "seniority": "mid",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "salary": {
+      "min": 66000,
+      "max": 88000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "SQL"
+    ],
+    "posted_at": "2026-10-12T18:03:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/101603"
+  },
+  {
+    "id": 101610,
+    "title": "Senior Product Owner, Payments",
+    "company": {
+      "id": "pinecone-learning",
+      "name": "Pinecone Learning",
+      "domain": null,
+      "logo_url": null
+    },
+    "job_type": "product",
+    "seniority": "senior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "salary": null,
+    "tags": [
+      "Roadmapping",
+      "Analytics"
+    ],
+    "posted_at": "2026-09-01T03:25:00.000Z",
+    "url": "https://jobs.example.com/pinecone-learning/101610"
+  },
+  {
+    "id": 101617,
+    "title": "Principal Product Manager",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "product",
+    "seniority": "principal",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Pittsburgh",
+      "country": "United States"
+    },
+    "salary": {
+      "min": 177000,
+      "max": 188000,
+      "currency": "USD"
+    },
+    "tags": [
+      "Discovery",
+      "Roadmapping",
+      "Analytics"
+    ],
+    "posted_at": "2026-10-17T21:46:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/101617"
+  },
+  {
+    "id": 101624,
+    "title": "Lead Product Marketing Manager",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "marketing",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Netherlands"
+    },
+    "salary": null,
+    "tags": [
+      "Paid acquisition"
+    ],
+    "posted_at": "2026-08-30T22:15:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/101624"
+  },
+  {
+    "id": 101631,
+    "title": "Senior Product Manager",
+    "company": {
+      "id": "halcyon-space",
+      "name": "Halcyon Space",
+      "domain": "halcyon.space",
+      "logo_url": "https://icons.duckduckgo.com/ip3/halcyon.space.ico"
+    },
+    "job_type": "product",
+    "seniority": "senior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 85000,
+      "max": 102000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Discovery",
+      "Roadmapping"
+    ],
+    "posted_at": "2026-09-29T21:05:00.000Z",
+    "url": "https://jobs.example.com/halcyon-space/101631"
+  },
+  {
+    "id": 101638,
+    "title": "Lead Partnerships Manager",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "sales",
+    "seniority": "lead",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "salary": {
+      "min": 93000,
+      "max": 113000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "Salesforce",
+      "SaaS"
+    ],
+    "posted_at": "2026-10-10T13:00:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/101638"
+  },
+  {
+    "id": 101645,
+    "title": "Junior Machine Learning Engineer",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "data",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "salary": {
+      "min": 38000,
+      "max": 52000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "PyTorch"
+    ],
+    "posted_at": "2026-10-04T07:27:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/101645"
+  },
+  {
+    "id": 101652,
+    "title": "Principal Account Executive",
+    "company": {
+      "id": "kestrel-analytics",
+      "name": "Kestrel Analytics",
+      "domain": "kestrel.dev",
+      "logo_url": "https://icons.duckduckgo.com/ip3/kestrel.dev.ico"
+    },
+    "job_type": "sales",
+    "seniority": "principal",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "salary": null,
+    "tags": [
+      "Salesforce",
+      "Negotiation"
+    ],
+    "posted_at": "2026-08-21T11:58:00.000Z",
+    "url": "https://jobs.example.com/kestrel-analytics/101652"
+  },
+  {
+    "id": 101659,
+    "title": "Lead Product Manager",
+    "company": {
+      "id": "cobalt-security",
+      "name": "Cobalt Security",
+      "domain": "cobaltsec.io",
+      "logo_url": "https://icons.duckduckgo.com/ip3/cobaltsec.io.ico"
+    },
+    "job_type": "product",
+    "seniority": "lead",
+    "work_mode": "remote",
+    "location": {
+      "city": null,
+      "country": "Croatia"
+    },
+    "salary": {
+      "min": 99000,
+      "max": 110000,
+      "currency": "EUR"
+    },
+    "tags": [
+      "B2B SaaS"
+    ],
+    "posted_at": "2026-09-06T23:16:00.000Z",
+    "url": "https://jobs.example.com/cobalt-security/101659"
+  },
+  {
+    "id": 101666,
+    "title": "Junior Data Scientist",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "data",
+    "seniority": "junior",
+    "work_mode": "hybrid",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "salary": null,
+    "tags": [
+      "SQL",
+      "dbt"
+    ],
+    "posted_at": "2026-10-05T15:32:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/101666"
+  },
+  {
+    "id": 101673,
+    "title": "Junior Solutions Engineer",
+    "company": {
+      "id": "saltmarsh-bio",
+      "name": "Saltmarsh Bio",
+      "domain": "saltmarsh.bio",
+      "logo_url": "https://icons.duckduckgo.com/ip3/saltmarsh.bio.ico"
+    },
+    "job_type": "sales",
+    "seniority": "junior",
+    "work_mode": "remote",
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "salary": {
+      "min": 51000,
+      "max": 76000,
+      "currency": "GBP"
+    },
+    "tags": [
+      "Negotiation",
+      "SaaS"
+    ],
+    "posted_at": "2026-08-26T03:30:00.000Z",
+    "url": "https://jobs.example.com/saltmarsh-bio/101673"
+  }
+]

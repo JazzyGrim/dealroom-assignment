@@ -1,0 +1,29 @@
+@import 'tailwindcss';
+
+/*
+ * Design tokens. Use these (e.g. `bg-surface`, `text-muted`, `border-border`)
+ * instead of raw Tailwind palette colours.
+ */
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+
+  --color-background: #f7f8fa;
+  --color-surface: #ffffff;
+  --color-surface-muted: #f1f3f6;
+  --color-border: #e3e6eb;
+  --color-foreground: #0f1729;
+  --color-muted: #5b6474;
+  --color-brand: #2b59ff;
+  --color-brand-foreground: #ffffff;
+  --color-brand-subtle: #eaf0ff;
+  --color-danger: #d92d20;
+  --color-danger-subtle: #fef3f2;
+  --color-success: #079455;
+  --color-success-subtle: #ecfdf3;
+
+  --radius-card: 0.75rem;
+}
+
+body {
+  @apply bg-background text-foreground font-sans antialiased;
+}

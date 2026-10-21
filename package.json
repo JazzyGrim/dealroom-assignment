@@ -1,0 +1,12 @@
+{
+  "name": "jobs-board-interview",
+  "private": true,
+  "type": "module",
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev": "bun run --filter '@jobs/api' --filter '@jobs/web' dev",
+    "test": "bun test",
+    "typecheck": "bun run --filter '*' typecheck",
+    "lint": "bun run --filter @jobs/web lint"
+  }
+}
